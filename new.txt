@@ -1,0 +1,4 @@
+1. Zrobić 2 commity w katalogu projekt.
+2. Zrobić push do bare-repo.git (git push)
+3. Przejść do projekt-clone 
+4. Pobrać zmiany z bare-repo.git (git pull)
